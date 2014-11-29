@@ -1,0 +1,23 @@
+{
+    "name": "tabernicola/jukecloud-admin-bundle",
+    "type": "symfony-bundle",
+    "description": "Administration bundle for JukeCloud",
+    "require": {
+        "tabernicola/jukecloud-bundle": "1.*",
+        "tabernicola/jukecloud-user-bundle": "1.*",
+        "cedriclombardot/admingenerator-generator-bundle": "1.1.3"
+    },
+    "authors": [
+        {
+            "name": "Tabernicola",
+            "email": "tabernicola01@gmail.com",
+            "homepage": "https://github.com/tabernicola/JukeCloudBundle"
+        }
+    ],
+    "autoload": {
+        "psr-0" : {
+            "Tabernicola\\JukeCloudAdminBundle" : ""
+        }
+    },
+    "target-dir": "Tabernicola/JukeCloudAdminBundle"
+}
