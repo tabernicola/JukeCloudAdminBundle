@@ -4,7 +4,7 @@
     "description": "Administration bundle for JukeCloud",
     "require": {
         "tabernicola/jukecloud-bundle": "1.*",
-        "tabernicola/jukecloud-user-bundle": "1.*",
+        "tabernicola/jukecloud-user-bundle": "dev-master",
         "cedriclombardot/admingenerator-generator-bundle": "1.1.3"
     },
     "authors": [
